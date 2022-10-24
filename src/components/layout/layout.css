@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #fff;
+    --secondary-color: rgb(226, 226, 226);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
